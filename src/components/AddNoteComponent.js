@@ -107,3 +107,4 @@ export const AddNoteComponent = () => {
 };
 
 export default AddNoteComponent;
+// ..
